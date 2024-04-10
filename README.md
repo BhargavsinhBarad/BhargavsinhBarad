@@ -17,7 +17,7 @@ I'm all about bringing ideas to life through code and design. With a strong foun
 
 Here are some of my favorite projects that showcase my skills and creativity:
 
-## Chat App
+## [Chat App](https://github.com/BhargavsinhBarad/chat_app)
 <img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/c4d3c947-d3f0-4923-94ca-70a8c863d62b">
 
 Project Technologies:
@@ -43,7 +43,7 @@ Project Evaluation:
 - Quality of code and project structure
 - Presentation quality and clarity of communication
 
-## Weather App
+## [Weather App](https://github.com/BhargavsinhBarad/weather_app)
 
 <img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/47e756d1-679c-46b5-8990-6ac54d3ebaf5">
 
