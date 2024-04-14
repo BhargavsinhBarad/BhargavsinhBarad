@@ -22,56 +22,81 @@ Here are some of my favorite projects that showcase my skills and creativity:
 
 Project Technologies:
 - Dart language
-- Flutter framework with MVC and Provider/GetX architecture
+- Flutter framework with MVC and GetX architecture
 
-Project Requirements:
-- Knowledge of programming languages such as Dart..
+Project Description:
+- Knowledge of programming languages such as Dart.
 - Familiarity with the Flutter framework, Firebase Firestore DB, and Firebase Authentication.
-- Understanding of user interface design principles and best practices.
-- Experience with mobile app development and related tools like Android Studio or VS Code.
-- Ability to work independently.
-
-Project Deliverables:
 - A functional two-way Chat application developed using Flutter.
-- Source code and documentation for the application.
-- User manual and installation instructions.
-- Project report detailing the development process, challenges faced, and solutions implemented.
-- Presentation and demonstration of the application to a panel of reviewers.
-
-Project Evaluation:
+- Understanding of user interface design principles and best practices.
 - User satisfaction with the application’s functionality and UI/UX
-- Quality of code and project structure
-- Presentation quality and clarity of communication
+
 
 ## [Weather App](https://github.com/BhargavsinhBarad/weather_app)
 
 <img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/47e756d1-679c-46b5-8990-6ac54d3ebaf5">
 
+
 Project Technologies:
 - Dart language
-- Flutter framework with MVC and Provider architecture
+- Flutter framework with MVC and GetX architecture
 
-Project Requirements:
-- Knowledge of programming languages such as Dart and JavaScript.
+Project Description:
+- Knowledge of programming languages such as Dart.
 - Familiarity with the Flutter framework, API Calling, and JSON parsing.
-- Understanding of user interface design principles and best practices.
-- Experience with mobile app development and related tools like Android Studio or VS Code.
-- Ability to work independently.
-
-Project Deliverables:
 - A functional Weather application developed using Flutter.
-- Source code and documentation for the application.
-- User manual and installation instructions.
-- Project report detailing the development process, challenges faced, and solutions implemented.
-- Presentation and demonstration of the application to a panel of reviewers.
-
-
-Project Evaluation:
+- Understanding of user interface design principles and best practices.
 - User satisfaction with the application’s functionality and UI/UX
-- Quality of code and project structure
-- Presentation quality and clarity of communication
 
-<!-- Add more projects as needed -->
+
+## [Ecommerce  App](https://github.com/BhargavsinhBarad/e_com_firebase)
+
+<img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/34f7f2e1-15be-480c-81f6-d471067ab033">
+
+
+Project Technologies:
+- Dart language
+- Flutter framework with MVC and GetX architecture
+
+Project Description:
+- Knowledge of programming languages such as Dart.
+- Familiarity with the Flutter framework, Firebase Firestore DB, API Calling.
+- A functional using coupon system Ecommerce application developed using Flutter.
+- Understanding of user interface design principles and best practices.
+- User satisfaction with the application’s functionality and UI/UX.
+
+## [Khata Book App](https://github.com/BhargavsinhBarad/khata_book)
+
+<img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/531e8314-4adf-449b-8168-1c47437b13d7">
+
+
+Project Technologies:
+- Dart language
+- Flutter framework with MVC and GetX architecture
+
+Project Description:
+- Knowledge of programming languages such as Dart.
+- Familiarity with the Flutter framework, SQLite Database.
+- A functional Credit Debit Khata Book application developed using Flutter.
+- Understanding of user interface design principles and best practices.
+- User satisfaction with the application’s functionality and UI/UX.
+
+## [TODO App](https://github.com/BhargavsinhBarad/todo_app_firebase)
+
+<img src="https://github.com/BhargavsinhBarad/BhargavsinhBarad/assets/118417960/3b22f128-155c-4969-9c13-b3c187ea469c">
+
+
+Project Technologies:
+- Dart language
+- Flutter framework with MVC and GetX architecture
+
+Project Description:
+- Knowledge of programming languages such as Dart.
+- Familiarity with the Flutter framework, SQLite Database.
+- A functional TODO application developed using Flutter.
+- Understanding of user interface design principles and best practices.
+- User satisfaction with the application’s functionality and UI/UX.
+
 
 ## 📫 Let's Connect!
 
